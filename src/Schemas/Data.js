@@ -101,7 +101,7 @@ export const Data = {
     worksLabel: "Experience",
     works: [
       {
-        title: "Senior backend and DevOps developer",
+        title: ".NET + DevOps Developer",
         period: "May. 2023 - Present",
         company: "BlueCode Solutions (Archipel Academy)",
         tasksLabel: "Tasks",
