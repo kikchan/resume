@@ -5,7 +5,7 @@ export const Data = {
     email: "kirilgaydarov94@gmail.com",
     image: "images/me.jpg",
     resume: "Download resume",
-    url: "/cv/CV Kiril EN 2025.pdf_v2"
+    url: "/cv/CV Kiril EN 2025_v2.pdf"
   },
   aboutMe: {
     label: "Profile",
