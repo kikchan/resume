@@ -4,3 +4,4 @@ services:
     ports:
       - "2090:80"
     restart: always
+    network_mode: bridge
